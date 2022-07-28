@@ -2,7 +2,7 @@
 基于Tempermonkey插件编写的一款清除新浪微博粉丝以及关注的小助手。
 
 ## 特别鸣谢
-
+![WebStorm logo](https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm.png)
 
 ## 免责声明
 一切下载及使用软件(weibo-clear-helper)时均被视为已经仔细阅读并完全同意以下条款：
