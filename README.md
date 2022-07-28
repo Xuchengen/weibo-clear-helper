@@ -1,0 +1,2 @@
+# weibo-clear-helper
+基于Tempermonkey插件编写的一款清除新浪微博粉丝以及关注的小助手
